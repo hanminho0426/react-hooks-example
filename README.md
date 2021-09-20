@@ -35,3 +35,9 @@ function Counter() {
   );
 }
 ```
+
+### useReducer
+
+- 다수의 하윗값을 포함하는 복잡한 정적 로직을 만드는 경우
+- 다음 state가 이전 state에 의존적인 경우
+- Redux를 안다면 쉽게 사용 가능
